@@ -3,8 +3,8 @@ from lxml import etree
 from autocompletehelper import *
 
 # Define the XML file to parse
-xmlFile = 'tmp/manpages/smbcontrol.1.xml'
-#xmlFile = 'tmp/manpages/smbclient.1.xml'
+#xmlFile = 'tmp/manpages/smbcontrol.1.xml'
+xmlFile = 'tmp/manpages/smbclient.1.xml'
 #xmlFile = 'tmp/manpages/smbcacls.1.xml'
 #xmlFile = 'tmp/manpages/smbget.1.xml'
 #xmlFile = 'tmp/manpages/smbspool.8.xml'

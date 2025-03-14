@@ -50,9 +50,6 @@ def get_workgroup():
 def get_realm():
     return None
 
-def get_command():
-    return None
-
 def get_chown():
     return None
 
